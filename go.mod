@@ -1,4 +1,4 @@
-module github.com/momotoculteur/vast
+module github.com/momotoculteur/bast
 
 go 1.13
 
