@@ -1,6 +1,6 @@
 # Vast
 
-VAST 4.2 : https://github.com/haxqer/vast/tree/4.2
+VAST 4.2 : https://github.com/momotoculteur/bast
 
 XML/Json
 
@@ -20,7 +20,7 @@ XML/Json
 
 ## Installation
 
-`go get -u github.com/haxqer/vast`
+`go get -u github.com/momotoculteur/vast`
 
 
 
@@ -32,7 +32,7 @@ package main
 import (
 	"encoding/xml"
 	"fmt"
-	. "github.com/haxqer/vast"
+	. "github.com/momotoculteur/vast"
 	"time"
 )
 
